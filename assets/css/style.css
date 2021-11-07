@@ -115,7 +115,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*begin image styling*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Begin footer styling*/
 .footer {
     padding: 30px;
     clear: both;
