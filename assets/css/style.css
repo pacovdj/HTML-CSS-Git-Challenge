@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-/* Begin hero styling */
+/* hero styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -115,7 +115,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-/*begin image styling*/
+/*image styling*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -198,3 +198,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*footer styling end*/
